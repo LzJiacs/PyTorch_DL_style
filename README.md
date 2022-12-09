@@ -1,5 +1,0 @@
-# pytochstyle
-
-'''python
-print(abc)
-'''
